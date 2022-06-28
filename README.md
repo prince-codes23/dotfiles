@@ -1,10 +1,6 @@
 <h1 align="center">🧊 dotfiles</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=OS&message=Ubuntu&color=blue&style=flat-square"/> 
-  <img src="https://img.shields.io/static/v1?label=WM&message=i3-gaps&color=lightgray&style=flat-square"/> 
-  <img src="https://img.shields.io/static/v1?label=Editor&message=Neovim&color=green&style=flat-square"/> 
-</p>
+
 
 <div align=center><img src="screenshot.png" /></div>
 
